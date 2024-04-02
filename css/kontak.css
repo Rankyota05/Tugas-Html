@@ -1,0 +1,14 @@
+p{
+    color: rgb(10, 255, 14);
+}
+a{
+    color: blue;
+}
+b{
+    color: black;
+}
+b{
+    position: absolute;
+    top: 380px;
+    left: 10px;
+}
