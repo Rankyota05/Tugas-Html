@@ -1,6 +1,12 @@
+.image1 {
+    width: 370px;
+    height: 415px;
+    position: absolute;
+    top: 186px;
+    left: 975px;
+}
 
-
-ul {
+  ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -28,7 +34,7 @@ ul {
   ul li:nth-child(2) a {
     position: absolute;
     top: 38px;
-    left: 1078px;
+    left: 1098px;
 }
   
   ul li:nth-child(3) a {
@@ -37,15 +43,16 @@ ul {
     left: 1246px;
 }
 
-.image-container {
-    display: flex;
-    justify-content: center; 
-    align-items: center;
-    height: 200px;
-  }
+.text-container {
+    position: absolute;
+    top: 238px;
+    left: 23px;
+    width: 728px;
+    height: 192px;
+}
   
-  .image-container img {
-    max-width: 100%; 
-    max-height: 100%;
-  }
+.text-container p {
+    font-size: 28px;
+    line-height: 1.5;
+}
   
