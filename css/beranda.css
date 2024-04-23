@@ -1,3 +1,19 @@
+.dark-mode {
+  background-color: #000000;
+  color: rgba(36, 176, 195, 100%);
+}
+
+.dark-mode {
+  background-color: #13171F;
+  color: #ffffff;
+}
+
+#home {
+  background-color: #f0f0f0; /* Warna latar belakang bagian Beranda */
+  color: #333; 
+  padding: 1px;
+}
+
 .image1 {
     width: 370px;
     height: 415px;
@@ -55,4 +71,4 @@
     font-size: 28px;
     line-height: 1.5;
 }
-  
+

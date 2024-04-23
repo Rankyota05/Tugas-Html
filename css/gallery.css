@@ -1,3 +1,10 @@
+.Gallery{
+  color: white;
+  width: 100vw;
+  background-color: rgba(36, 176, 195, 100%);
+  text-align: center;
+}
+
 .image1 {
     width: 298px;
     height: 303px;
